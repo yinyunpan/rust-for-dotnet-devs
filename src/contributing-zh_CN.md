@@ -41,7 +41,6 @@
 - 保持本指南的风格，如果读者正在被告知或指示，避免使用_你_；代替使用第三人称。例如, 代替说, &ldquo;你提出用Rust可选数据`Option<T>`类型&rdquo;，写为，&ldquo;Rust有可选数据
   `Option<T>`类型&rdquo;。
 
-  [简介]: introduction.md
   [基础类库]: https://learn.microsoft.com/en-us/dotnet/standard/framework-libraries#base-class-library
   [Rust标准库]: https://doc.rust-lang.org/std/
   [rand]: https://docs.rs/rand/latest/rand/

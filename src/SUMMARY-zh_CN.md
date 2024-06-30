@@ -1,9 +1,8 @@
 # 概括
 
-[简介](./introduction-zh_CN.md)
-[许可证](./license-zh_CN.md)
-[贡献](./contributing-zh_CN.md)
-
+- [简介](./introduction-zh_CN.md)
+- [许可证](./license-zh_CN.md)
+- [贡献](./contributing-zh_CN.md)
 - [入门](./getting-started/index-zh_CN.md)
 - [语言](./language/index-zh_CN.md)
   - [标量类型](./language/scalar-types-zh_CN.md)
