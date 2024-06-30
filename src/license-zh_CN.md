@@ -1,4 +1,4 @@
-# License
+# 许可证
 
 版权 &copy; 微软公司。<br>
 部分版权 &copy; 2010 Rust项目开发者
